@@ -110,3 +110,13 @@ VoicePay improves financial inclusion by:
 VoicePay is a **voice-first financial system** that enables users to perform banking operations through natural speech using only a phone call, eliminating the need for smartphones or literacy-based app navigation.
 
 ---
+---
+### 🖼️ Web App Screenshots
+
+<table>
+  <tr>
+    <td><img src="images/demo1.png" width="300"/></td>
+    <td><img src="images/demo2.png" width="300"/></td>
+    <td><img src="images/demo3.png" width="300"/></td>
+  </tr>
+</table>
